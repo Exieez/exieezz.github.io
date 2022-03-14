@@ -4,6 +4,7 @@ export const plugins = [
   'BetterReplies',
   'DownloadEmotes',
   'QuickAddonDownloader',
+  'ReplaceTimestamps',
   'Someone',
   'ToggleAll',
 ];
