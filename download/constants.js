@@ -6,6 +6,7 @@ export const plugins = [
   'QuickAddonDownloader',
   'ReplaceTimestamps',
   'Someone',
+  'SuppressPings',
   'ToggleAll',
 ];
 
