@@ -248,6 +248,7 @@ body header > div #popout .popout-footer input:focus {
 .about-desc{
   font-size: 4vw;
   font-weight: 400;
+  text-align: center;
 }
 
 .divider {
